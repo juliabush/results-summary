@@ -40,4 +40,8 @@ html, body {
     width: 120px;
     align-self: center;
     margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
