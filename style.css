@@ -72,15 +72,80 @@ html, body {
     flex-direction:  column;
     background-color: white;
     border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 255, 0.233);
+    box-shadow: 0 0 16px rgba(0, 0, 255, 0.233);
     min-width: 520px;
     min-height: 383px;
-    padding: 40px;
+    padding: 20px;
     position: relative;
     align-items: end;
-    text-indent: rigth ;
     right: 260px;
     z-index: -1;
+}
+.statistic {
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    top: 10px;
+    right: 130px;
+    margin-bottom: 10px;
+}
+.red {
+    background-color: hsla(0, 100%, 67%, 0.2);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+    position: relative;
+    top: 20px;
+}
+.emotion {
+    color: hsla(0, 100%, 67%, 1);
+    font-weight: 600;
+    position: relative;
+    right: 14px;
+}
+.score-1 {
+    font-weight: 600;
+    position: relative;
+    left: 15px;
+}
+.ugh {
+    font-weight: 600;
+    color: #0000007a;
+}
+.yellow {
+    background-color: hsla(39, 100%, 56%, 0.2) ;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+    position: relative;
+    top: 20px;
+    margin-top: 14px;
+}
+.green {
+    background-color: hsl(166, 100%, 37%, 0.2) ;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+    position: relative;
+    top: 20px;
+    margin-top: 14px;
+}
+.blue {
+    background-color: hsl(234, 85%, 45%, 0.2) ;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+    position: relative;
+    top: 20px;
+    margin-top: 14px;
 }
 
 
