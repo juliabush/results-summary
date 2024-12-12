@@ -147,5 +147,48 @@ html, body {
     top: 20px;
     margin-top: 14px;
 }
-
-
+.memory {
+    color: hsla(39, 100%, 56%, 1);
+    font-weight: 600;
+    position: relative;
+    right: 14px;
+}
+.score-2 {
+    font-weight: 600;
+    position: relative;
+    left: 15px;
+}
+.hah {
+    font-weight: 600;
+    color: #0000007a;
+}
+.verbal {
+    color:  hsl(166, 100%, 37%, 1);
+    font-weight: 600;
+    position: relative;
+    right: 14px;
+}
+.score-3 {
+    font-weight: 600;
+    position: relative;
+    left: 15px;
+}
+.bah {
+    font-weight: 600;
+    color: #0000007a;
+}
+.visual {
+    color: hsla(39, 100%, 56%, 1);
+    font-weight: 600;
+    position: relative;
+    right: 14px;
+}
+.score-4 {
+    font-weight: 600;
+    position: relative;
+    left: 15px;
+}
+.muah {
+    font-weight: 600;
+    color: #0000007a;
+}
